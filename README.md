@@ -1,4 +1,4 @@
-Affiliates-Wellcome-email
+Affiliates-Welcome-email
 =========================
 
-Send a wellcome email to new affiliates.
+Send a welcome email to new affiliates.
